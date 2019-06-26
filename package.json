@@ -1,0 +1,11 @@
+{
+  "name": "people-portfolio",
+  "version": "1.0.0",
+  "main": "abb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass --watch index.scss style/index.css"
+  },
+  "author": "",
+  "license": "ISC",
+  
